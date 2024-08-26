@@ -6,3 +6,4 @@ vector<vector<int>> dy {
     /* even -> */ {  0, 1, 1, 0, -1, -1 },
     /* odd  -> */ {  0,  1, 1, 0, -1, -1 }
 };
+// even or odd depends on y coordinate
